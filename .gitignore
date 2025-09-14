@@ -4,6 +4,9 @@
 
 #Token
 token.env
+.env
+.envrc
+
 
 
 # Byte-compiled / optimized / DLL files
